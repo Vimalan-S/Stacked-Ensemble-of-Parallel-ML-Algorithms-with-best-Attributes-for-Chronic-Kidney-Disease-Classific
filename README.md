@@ -15,9 +15,9 @@ To address the challenge of training time, a comprehensive feature selection pro
 are utilized to identify the best common set of features. By selecting the most informative features, the model's training time is significantly reduced while preserving relevant information.
 
 Furthermore, in order to enhance the accuracy of the ML model, a stacked ensemble approach is employed. This ensemble consists of parallel implementations of 
-i) **Random Forest**
-ii) **K-Nearest Neighbors (KNN)**
-iii) **Logistic Regression algorithms** 
+i) **Random Forest** <br>
+ii) **K-Nearest Neighbors (KNN)** <br>
+iii) **Logistic Regression algorithms**  <br>
 
 By combining the predictions of these models, the overall accuracy is improved through leveraging the strengths of each individual algorithm.
 
